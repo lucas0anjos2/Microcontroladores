@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1550775867 source:c:\users\rails\onedrive\Área de trabalho\trabalho1_microcontroladores\trabalhomicro1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trabmicro.h"
+
+1550775844 c:\users\rails\onedrive\Área de trabalho\trabalho1_microcontroladores\trabalhomicro1\trabmicro.h
+
+1550775830 source:c:\users\rails\onedrive\Área de trabalho\trabalho1_microcontroladores\trabalhomicro1\trabmicro.c
+	<stdio.h>
+	"trabmicro.h"
+
